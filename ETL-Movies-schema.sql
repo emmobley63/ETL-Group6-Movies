@@ -3,7 +3,7 @@
 
 
 CREATE TABLE "Title" (
-    "title" VARCHAR(40)   NOT NULL,
+    "title" VARCHAR(100)   NOT NULL,
     "type" VARCHAR(30)   NOT NULL,
     "year_id" INT   NOT NULL,
     "rating_id" INT   NOT NULL,
